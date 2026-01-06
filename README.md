@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/mndev02?ext=heatmap)
 <!--
 **mndev02/mndev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
